@@ -1,0 +1,32 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git. 
+Git é um sistema de versionamento de código distribuido.
+
+
+O que acontece quando você gera commits no seu repositório local com email e name diferentes dos utilizados no GitHu
+Os commits apareceram com email e name diferentes no GitHub.
+
+Comando usado para inicializar o GIT dentro de uma pasta?
+git.init
+
+O que o comando git clone faz?
+Faz um clone de repositório remoto em seu repositório local.
+
+Quando você tenta empurrar (push) o código para o GitHub e o seu commit não representa o estado mais atual do repositório o git irá: 
+Pedir para você fazer um pull e depois push
+
+O que é um sistema distribuído? 
+Um sistema que possui múltiplas cópias de si mesmo em diferentes locais.
+
+Qual a diferença do seu ambiente de desenvolvimento e do servidor?
+Seu ambiente de desenvolvimento é local e o servidor, remoto.
+
+O que é um arquivo do tipo Markdown?
+Um arquivo que usa caracteres especiais como # para formatar o texto (https://www.markdownguide.org/basic-syntax/)
+
+Aprendemos que alguns comandos podem variar de acordo com o sistema operacional usado. Com isso em mente, o que o comando dir, no Windows e lS, no Linux fazem?
+Retorna uma lista com o conteúdo contido naquele diretório específico.
+
+Para adicionar pasta quando status tem erro: git add . 
+
+
